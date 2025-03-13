@@ -29,7 +29,7 @@ BitcoinPriceTrackerAppReact je aplikace pro sledování aktuálních cen Bitcoin
 
 1. Klonujte repozitář:
    bash
-   git clone https://github.com/bzivica/BitCoinPraceTrackerAppReact
+   git clone https://github.com/bzivica/BitCoinPraceTrackerAppReact.git
 
 V backendové části je potřeba nakonfigurovat správné připojení k databázi MSSQL a nastavit API pro Coindesk a ČNB. Ujistěte se, že máte správně nakonfigurovaný soubor appsettings.json.
 
