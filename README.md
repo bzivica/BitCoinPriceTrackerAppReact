@@ -11,10 +11,11 @@ BitcoinPriceTrackerAppReact je aplikace pro sledování aktuálních cen Bitcoin
 
 ## Technologie
 
-- **Frontend**: React pro interaktivní a responzivní uživatelské rozhraní, **Chart.js** pro vizualizaci dat (grafy).
+- **Frontend**: **React** pro interaktivní a responzivní uživatelské rozhraní, **Chart.js** pro vizualizaci dat (grafy).
 - **Backend**: **ASP.NET Core Web API** pro serverovou logiku.
-- **Databáze**: **MSSQL** pro ukládání historických dat.
 - **API**: Coindesk pro zajištění cen Bitcoinu a ČNB pro směnné kurzy mezi EUR a CZK.
+- **Databáze**: **MSSQL** pro ukládání historických dat.
+- **Entity Framework (EF)** pro připojení a manipulaci s databází MSSQL
 
 ## Instalace a spuštění
 
