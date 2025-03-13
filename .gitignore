@@ -361,3 +361,22 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# React related
+/node_modules
+/.pnp
+.pnp.js
+/coverage
+/build
+/dist
+
+# Environment files (React)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files (React)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
